@@ -1,0 +1,9 @@
+﻿  main.cpp
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad09\Zad2\main.cpp(185,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad09\Zad2\main.cpp(376,3): warning C4838: konwersja z „int” do „BYTE” wymaga konwersji zawężającej
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad09\Zad2\main.cpp(600,18): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad09\Zad2\main.cpp(604,18): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  main.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Przyklad 03c.vcxproj -> I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad09\Zad2\Debug\Przyklad 03c.exe
