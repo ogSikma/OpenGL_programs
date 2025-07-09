@@ -1,0 +1,14 @@
+C:\Users\pawci\Desktop\grafika openGL\przyklady\Przyklad 03c\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\grafika openGL\przyklady\Przyklad 03c\Debug\Przyklad 03c.exe
+C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\Debug\Przyklad 03c.exe
+C:\Users\pawci\Desktop\OpenGL\zad1\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\OpenGL\zad1\Zad1\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Downloads\zad1\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Downloads\zad1\Zad1\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Downloads\zad1\Zad1\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 1 szesciany tryby\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 1 szesciany tryby\Zad1\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 1 szesciany tryby\Zad1\Debug\Przyklad 03c.exe
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad01\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad01\Zad1\Debug\Przyklad 03c.exe

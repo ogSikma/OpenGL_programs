@@ -1,0 +1,4 @@
+﻿  main.cpp
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad01\Zad1\main.cpp(386,3): warning C4838: konwersja z „int” do „BYTE” wymaga konwersji zawężającej
+  main.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Przyklad 03c.vcxproj -> I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad01\Zad1\Debug\Przyklad 03c.exe
