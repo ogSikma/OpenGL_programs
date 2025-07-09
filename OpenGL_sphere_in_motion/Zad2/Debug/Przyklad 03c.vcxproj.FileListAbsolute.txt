@@ -1,0 +1,22 @@
+C:\Users\pawci\Desktop\grafika openGL\przyklady\Przyklad 03c\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\grafika openGL\przyklady\Przyklad 03c\Debug\Przyklad 03c.exe
+C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\Debug\Przyklad 03c.exe
+C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\Debug\Przyklad 03c.exe
+C:\Users\pawci\Desktop\OpenGL\zad2\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\pawci\Desktop\OpenGL\zad2\Zad2\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Downloads\zad2\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Downloads\zad2\Zad2\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Downloads\zad2\Zad2\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 tetris wannabe\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 tetris wannabe\Zad2\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 tetris wannabe\Zad2\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 kula skrzynia moje\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 kula skrzynia moje\Zad2\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zad2 kula skrzynia moje\Zad2\Debug\Przyklad 03c.exe
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 2 kula skrzynia\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 2 kula skrzynia\Zad2\Debug\Przyklad 03c.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sikma\Desktop\Uczelnia\OpenGL\zadanie 2 kula skrzynia\Zad2\Debug\Przyklad 03c.exe
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\Debug\Przyklad 03c.vcxproj.AssemblyReference.cache
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\Debug\Przyklad 03c.exe

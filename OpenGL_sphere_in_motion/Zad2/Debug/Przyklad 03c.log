@@ -1,0 +1,8 @@
+﻿  main.cpp
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\main.cpp(129,19): warning C4305: "*=": obcięcie z "double" do "GLfloat"
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\main.cpp(130,18): warning C4305: "*=": obcięcie z "double" do "GLfloat"
+I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\main.cpp(292,3): warning C4838: konwersja z „int” do „BYTE” wymaga konwersji zawężającej
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  main.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Przyklad 03c.vcxproj -> I:\Uczelnia\OpenGL\Pietrowicz_Marek_OpenGL_zad02\Zad2\Debug\Przyklad 03c.exe
